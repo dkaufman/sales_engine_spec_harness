@@ -2,7 +2,7 @@
 
 This is the evaluation test harness for SalesEngine. It requires your implementation of SalesEngine as a gem, then runs the evaluation specs against it.
 
-## Installing Locally
+## Installing Locally 
 
 Git clone this project into a directory that lives at the same level as your `sales_engine` project directory. It should be arranged like:
 
