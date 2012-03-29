@@ -15,7 +15,7 @@ Git clone this project into a directory that lives at the same level as your `sa
     | \sales_engine_spec_harness/
     |
 
-Change directories into the `sales_engine_spec_harness/` directory and then execute:
+Change directories into the `sales_engine_spec_harness/` directory and then execute: 
 
     $ bundle
 
